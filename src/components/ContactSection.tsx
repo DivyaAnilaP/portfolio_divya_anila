@@ -100,7 +100,7 @@ const ContactSection = () => {
             </div>
 
             <a
-              href="/DivyaAnila_Resume.pdf"
+              href="/DivyaAnilaPantangi_Resume.pdf"
               download
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity text-sm"
             >
