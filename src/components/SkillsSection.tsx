@@ -6,7 +6,7 @@ const categories = [
   {
     name: "Languages",
     icon: "💻",
-    skills: ["Python", "JavaScript", "Java", "C"],
+    skills: ["Python", "JavaScript", "Java"],
   },
   {
     name: "Web Technologies",
@@ -16,7 +16,7 @@ const categories = [
   {
     name: "AI / ML",
     icon: "🤖",
-    skills: ["TensorFlow", "Keras", "scikit-learn", "NLP", "DistilBERT", "MobileNetV2"],
+    skills: ["TensorFlow", "Keras", "scikit-learn", "PyTorch", "OpenCV"],
   },
   {
     name: "Databases",
@@ -26,7 +26,7 @@ const categories = [
   {
     name: "Tools & DevOps",
     icon: "🔧",
-    skills: ["Git", "GitHub", "Docker", "Vercel", "API Integration"],
+    skills: ["Git", "GitHub", "VSCode", "Vercel"],
   },
   {
     name: "CS Fundamentals",
