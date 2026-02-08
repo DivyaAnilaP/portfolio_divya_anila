@@ -47,7 +47,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="/DivyaAnila_Resume.pdf"
+            href="/DivyaAnilaPantangi_Resume.pdf"
             download
             className="px-4 py-2 text-sm font-medium rounded-lg bg-primary text-primary-foreground hover:opacity-90 transition-opacity"
           >
