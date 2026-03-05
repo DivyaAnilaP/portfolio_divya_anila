@@ -9,8 +9,8 @@ const projects = [
     description:
       "AI-powered travel planning platform using Agentic AI and DistilBERT-based NLP to generate personalized, context-aware itineraries with real-time weather and crowd-pattern signals.",
     links: {
-      github: "https://github.com/DivyaAnilaP",
-      demo: "https://tripsageai-majorproject.vercel.app/",
+      github: "https://github.com/DivyaAnilaP/Divya-s-TripSageAI",
+      demo: "https://tripsageai-majorproject-ddsh.vercel.app/",
     },
   },
   {
@@ -19,12 +19,12 @@ const projects = [
     description:
       "AI platform that validates startup ideas via SWOT analysis, viability scoring, and competitor insights. Uses Gemini 1.5 Flash & GPT with intelligent fallback and caching.",
     links: {
-      github: "https://github.com/DivyaAnilaP",
+      github: "https://github.com/DivyaAnilaP/IdeaPulse",
       demo: "https://idea-pulse-rho.vercel.app/",
     },
   },
   {
-    title: "Real-Time Collaboration",
+    title: "TeamSync-Real-Time Collaboration",
     tags: ["MERN", "Socket.IO", "AI"],
     description:
       "Full-stack collaboration platform with real-time chat, file sharing, task management, AI meeting summarizer, and sprint tools. Won CSI 24hr Hackathon.",
@@ -39,7 +39,7 @@ const projects = [
     description:
       "Multimodal fake-content detection system combining text (DistilBERT + SHAP) and image (MobileNetV2 + Grad-CAM) analysis with an interpretable trust score (0–100).",
     links: {
-      github: "https://github.com/DivyaAnilaP",
+      github: "https://github.com/DivyaAnilaP/TrustGuardAI",
     },
   },
 ];
