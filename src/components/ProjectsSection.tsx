@@ -30,7 +30,7 @@ const projects = [
       "Full-stack collaboration platform with real-time chat, file sharing, task management, AI meeting summarizer, and sprint tools. Won CSI 24hr Hackathon.",
     links: {
       github: "https://github.com/DivyaAnilaP/TeamSync-RealTime-Collabration",
-      demo: "https://teamflow-sync-spark.vercel.app/",
+      demo: "https://team-sync-real-time-collabration.vercel.app/",
     },
   },
   {
