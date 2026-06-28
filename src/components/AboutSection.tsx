@@ -26,7 +26,7 @@ const AboutSection = () => {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                I'm a final-year B.Tech student in Computer Science (AI & ML) at Anurag University, Hyderabad, with a CGPA of 9.53. I'm passionate about building meaningful, well-structured products with a strong emphasis on fundamentals and code quality.
+                I'm a final-year B.Tech student in Computer Science (AI & ML) at Anurag University, Hyderabad, with a CGPA of 9.58. I'm passionate about building meaningful, well-structured products with a strong emphasis on fundamentals and code quality.
               </p>
               <p>
                 I enjoy full-stack development, exploring practical AI use cases, and working on real-time systems. I learn best by building, iterating, and refining — with a constant focus on clarity, correctness, and long-term maintainability.
