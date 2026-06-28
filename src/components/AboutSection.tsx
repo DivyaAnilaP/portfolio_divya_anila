@@ -38,7 +38,7 @@ const AboutSection = () => {
                 {
                   icon: GraduationCap,
                   title: "Education",
-                  desc: "B.Tech CSE (AI & ML) — Anurag University, CGPA: 9.53",
+                  desc: "B.Tech CSE (AI & ML) — Anurag University, CGPA: 9.58",
                 },
                 {
                   icon: Target,
