@@ -87,7 +87,7 @@ const HeroSection = () => {
             className="flex justify-center gap-8 md:gap-12 pt-8 text-center"
           >
             {[
-              { value: "9.53", label: "CGPA" },
+              { value: "9.58", label: "CGPA" },
               { value: "4+", label: "Projects" },
               { value: "3+", label: "Hackathons" },
             ].map((s) => (
